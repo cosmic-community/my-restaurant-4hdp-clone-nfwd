@@ -20,7 +20,7 @@ A warm, editorial one-page café website built with Next.js 16 and [Cosmic](http
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6a362ab25b2ac5cef3df8fc1&clone_repository=6a362bd55b2ac5cef3df9008)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6ab9ba3878d5b774270597a3&clone_repository=6a362bd55b2ac5cef3df9008)
 
 ## Prompts
 
